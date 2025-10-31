@@ -253,6 +253,7 @@ def tampilkan_grafik():
     plt.grid(True)
     plt.tight_layout()
     plt.sho
+    
 
     # Tampilkan Speedup
     print("\n=== HASIL SPEEDUP ===")
